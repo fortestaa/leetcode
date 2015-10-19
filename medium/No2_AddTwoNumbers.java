@@ -10,7 +10,7 @@ package medium;
  * 
  * Input: (2 -> 4 -> 3) + (5 -> 6 -> 4) Output: 7 -> 0 -> 8
  */
-public class AddTwoNumbers {
+public class No2_AddTwoNumbers {
 	public static class ListNode {
 		int val;
 		ListNode next;
