@@ -11,7 +11,7 @@ package medium;
  * 
  * Note: You may not slant the container.
  */
-public class ContainerWithMostWater {
+public class No11_ContainerWithMostWater {
     public int maxArea(int[] height) {
         int start = 0;
         int end = height.length - 1;
