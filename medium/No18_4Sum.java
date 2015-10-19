@@ -17,7 +17,7 @@ import java.util.List;
  * For example, given array S = {1 0 -1 0 -2 2}, and target = 0.
  * A solution set is: (-1, 0, 0, 1) (-2, -1, 1, 2) (-2, 0, 0, 2)
  */
-public class FourSum {
+public class No18_4Sum {
 	public List<List<Integer>> fourSum(int[] nums, int target) {
         List<List<Integer>> rst = new ArrayList<List<Integer>>();
         HashSet<List<Integer>> set = new HashSet<List<Integer>>();
