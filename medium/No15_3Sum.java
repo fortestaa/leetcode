@@ -15,7 +15,7 @@ import java.util.List;
  * The solution set must not contain duplicate triplets.
  * For example, given array S = {-1 0 1 2 -1 -4}, A solution set is: (-1, 0, 1) (-1, -1, 2)
  */
-public class ThreeSum {
+public class No15_3Sum {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> rst = new ArrayList<List<Integer>>();
         if (nums.length < 3)    return rst;
