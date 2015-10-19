@@ -13,7 +13,7 @@ package easy;
  * input specs). You are responsible to gather all the input requirements up
  * front.
  */
-public class String_to_Integer {
+public class No8_String_to_Integer {
     private static final int maxDiv10 = Integer.MAX_VALUE / 10;
     
     public int myAtoi(String str) {
