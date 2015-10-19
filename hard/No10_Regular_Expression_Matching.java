@@ -17,7 +17,7 @@ package hard;
  * true isMatch("ab", ".*") → true isMatch("aab", "c*a*b") → true
  *
  */
-public class Regular_Expression_Matching {
+public class No10_Regular_Expression_Matching {
 	public boolean isMatch(String s, String p) {
 		if (p.length() == 0)
 			return s.length() == 0;
