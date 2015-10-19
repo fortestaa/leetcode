@@ -6,7 +6,7 @@ package easy;
  * 
  * Determine whether an integer is a palindrome. Do this without extra space.
  */
-public class PalindromeNumber {
+public class No9_PalindromeNumber {
     public boolean isPalindrome(int x) {
         if (x < 0)  return false;
         int div = 1;
