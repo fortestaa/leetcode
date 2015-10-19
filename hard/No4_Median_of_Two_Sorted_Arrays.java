@@ -7,7 +7,7 @@ package hard;
  * There are two sorted arrays nums1 and nums2 of size m and n respectively. 
  * Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
  */
-public class Median_of_Two_Sorted_Arrays {
+public class No4_Median_of_Two_Sorted_Arrays {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int m = nums1.length;
         int n = nums2.length;
