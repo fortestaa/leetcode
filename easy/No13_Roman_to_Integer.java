@@ -11,7 +11,7 @@ import java.util.Map;
  * 
  * Input is guaranteed to be within the range from 1 to 3999.
  */
-public class Roman_to_Integer {
+public class No13_Roman_to_Integer {
     private Map<Character, Integer> map = 
             new HashMap<Character, Integer>(){{
                 put('I', 1); put('V', 5);    put('X', 10);
