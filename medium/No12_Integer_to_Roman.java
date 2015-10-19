@@ -8,7 +8,7 @@ package medium;
  * 
  * Input is guaranteed to be within the range from 1 to 3999.
  */
-public class Integer_to_Roman {
+public class No12_Integer_to_Roman {
     private static final int[] values = {
         1000, 900, 500, 400,
         100,  90,  50,  40,
