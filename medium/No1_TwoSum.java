@@ -17,7 +17,7 @@ import java.util.Map;
  * 
  * Input: numbers={2, 7, 11, 15}, target=9 Output: index1=1, index2=2
  */
-public class TwoSum {
+public class No1_TwoSum {
 	public int[] twoSum(int[] numbers, int target) {
         Map<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < numbers.length; i++) {
