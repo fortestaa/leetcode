@@ -16,7 +16,7 @@ import java.util.List;
  * Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"]. 
  * Note: Although the above answer is in lexicographical order, your answer could be in any order you want.
  */
-public class Letter_Combinations_of_a_Phone_Number {
+public class No17_Letter_Combinations_of_a_Phone_Number {
     public List<String> letterCombinations(String digits) {
     	List<String> rst = new ArrayList<String>();
     	if (digits == null || digits.length() == 0)	return rst;
