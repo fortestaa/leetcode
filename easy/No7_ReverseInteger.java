@@ -7,7 +7,7 @@ package easy;
  * Example1: x = 123, return 321
  * Example2: x = -123, return -321
  */
-public class ReverseInteger {
+public class No7_ReverseInteger {
     private final static int MAXDIV10 = Integer.MAX_VALUE / 10;
     
     public int reverse(int x) {
